@@ -55,7 +55,7 @@ namespace PiszemySlowa
         /// </summary>
         private IEnumerable<FileData> FilesList { get; set; }
 
-        private string currentDirectory { get; } = Path.Combine(Directory.GetCurrentDirectory(), "images");
+        private string CurrentDirectory { get; } = Path.Combine(Directory.GetCurrentDirectory(), "images");
 
         /// <summary>
         /// Supported image extensions.
@@ -80,7 +80,7 @@ namespace PiszemySlowa
             // Enumerate - do not retrieve all the files and then continue working
             try
             {
-                allFiles = Directory.EnumerateFiles(currentDirectory)
+                allFiles = Directory.EnumerateFiles(CurrentDirectory)
                               .Select(file => new FileData(Path.GetFileNameWithoutExtension(file), Path.GetExtension(file), Path.GetFullPath(file)));
             }
             catch
