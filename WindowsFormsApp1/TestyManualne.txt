@@ -1,0 +1,8 @@
+﻿1. brak folderu
+2. brak plikow z dobrym rozszerzeniem
+3. zly plik bez rozszerzenia
+4. zly plik z blednym rozszerzeniem
+5. samogloski kolorowanie
+6. pierwsza czerwona litera po backspace
+7. usuniecie pliku podczas dzialania programu
+8. enter na pustym polu tekstowym

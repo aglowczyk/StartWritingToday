@@ -1,0 +1,1 @@
+﻿1. Program pobiera nazwy plików z uwzględnieniem wielkości liter. Windows10 potrafi "pamiętać" dużą literę a wyświetlać małą - z nieznanego mi powodu.
