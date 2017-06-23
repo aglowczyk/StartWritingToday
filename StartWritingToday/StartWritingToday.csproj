@@ -4,7 +4,7 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{4D34AE00-999E-4797-A912-32F709B2D1B6}</ProjectGuid>
+    <ProjectGuid>{B9B48ADF-9E52-4BF4-AC77-F27D3B914A21}</ProjectGuid>
     <OutputType>WinExe</OutputType>
     <RootNamespace>PiszemySlowa</RootNamespace>
     <AssemblyName>PiszemySlowa</AssemblyName>
