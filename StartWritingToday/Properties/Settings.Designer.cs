@@ -8,7 +8,7 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace PiszemySlowa.Properties {
+namespace StartWritingToday.Properties {
     
     
     [global::System.Runtime.CompilerServices.CompilerGeneratedAttribute()]

@@ -67,7 +67,7 @@
             this.btnSprawdz.Name = "btnSprawdz";
             this.btnSprawdz.Size = new System.Drawing.Size(1151, 51);
             this.btnSprawdz.TabIndex = 2;
-            this.btnSprawdz.Text = "Sprawdź";
+            this.btnSprawdz.Text = "v";
             this.btnSprawdz.UseVisualStyleBackColor = true;
             this.btnSprawdz.Click += new System.EventHandler(this.BtnSprawdz_Click);
             // 

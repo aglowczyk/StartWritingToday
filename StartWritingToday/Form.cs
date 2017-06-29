@@ -15,8 +15,6 @@ namespace PiszemySlowa
     {
         public MainForm()
         {
-            // todo: dokument howto
-            // todo: zmienic katalog windowsforms1
             InitializeComponent();
             InitializeFilesSetup();
         }
