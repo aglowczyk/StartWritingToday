@@ -1,4 +1,4 @@
-# StartWritingToday is a small app for kids. Long story short is shows a picture if a word is written correctly. 
+# StartWritingToday is a small app for kids. Long story short it shows a picture if a word is written correctly. 
 
 More info below. Have fun!
 
